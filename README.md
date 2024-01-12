@@ -1,7 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThienAn923)](https://github.com/ryo-ma/github-profile-trophy)
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there :3
 <!--
 **ThienAn923/ThienAn923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
